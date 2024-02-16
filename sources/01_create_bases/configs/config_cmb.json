@@ -1,0 +1,31 @@
+{
+"IMAGE_PATH"              : "./templates/cmb.png",
+"BANK"                    : "CMB",
+"OUTPUT_DIR" : "../../train_test_dataset/",
+"TEMPLATE_OPTIONS"      : {
+"MAX_LEN_TRANSAC" : 15,
+"OFFSET" : 3,
+    "Y_MIN" : 1108,
+    "Y_MAX" : 1773,
+    "Y_GAP" : 30,
+    "TABLE_COLS_LIMITS" :  {
+                "col_1" : [127, 227],
+                "col_2" : [241, 361],
+                "col_3" : [375, 1055],
+                "col_4" : [1075, 1300],
+                "col_5" : [1320, 1545]
+    },
+    "HEADER_COLS_LIMITS" : {
+                "col_1" : [150, 730],
+                "col_2" : [730, 843],
+                "col_3" : [843, 1017]
+    },
+    "ROWS_COLORS" : ["#EAEAEA", "white"],
+    "BOX_HEIGHT" : 28
+}, 
+"FONT_OPTIONS": {
+ "F_SIZE"        : 23,
+ "FF_REGULAR"    : "./static/helvetica/Helvetica.ttf",
+ "FF_BOLD"       : "./static/helvetica/Helvetica-Bold.ttf"
+}
+}

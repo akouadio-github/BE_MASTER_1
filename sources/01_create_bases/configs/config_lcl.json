@@ -1,0 +1,24 @@
+{
+"IMAGE_PATH"              : "./templates/lcl.jpg",
+"BANK"                    : "LCL",
+"OUTPUT_DIR" : "../../train_test_dataset/",
+"TEMPLATE_OPTIONS"      : {
+"MAX_LEN_TRANSAC" : 20,
+"OFFSET" : 3,
+    "Y_MIN" : 885,
+    "Y_MAX" : 1305,
+    "Y_GAP" : 22,
+    "TABLE_COLS_LIMITS" :  {
+        "col_1" : [70, 130],
+        "col_2" : [130, 660],
+        "col_3" : [660, 755],
+        "col_4" : [755, 894],
+        "col_5" : [894, 1035]
+    },
+"BOX_HEIGHT" : 70
+}, 
+"FONT_OPTIONS": {
+ "F_SIZE"        : 16 ,
+ "FF_REGULAR"    : "./static/helvetica/Helvetica.ttf"
+}
+}

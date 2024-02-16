@@ -1,0 +1,25 @@
+{
+"IMAGE_PATH"              : "./templates/sg.png",
+"BANK"                    : "SG",
+"OUTPUT_DIR" : "../../train_test_dataset/",
+"TEMPLATE_OPTIONS"      : {
+"MAX_LEN_TRANSAC" : 23,
+"OFFSET" : 3,
+    "Y_MIN" : 1136,
+    "Y_MAX" : 1986,
+    "Y_GAP" : 37,
+    "TABLE_COLS_LIMITS" :  {
+        "col_1" : [78, 218],
+        "col_2" : [218, 360],
+        "col_3" : [360, 1148],
+        "col_4" : [1148, 1361],
+        "col_5" : [1361, 1573]
+    },
+    "BOX_HEIGHT" : 70
+}, 
+"FONT_OPTIONS": {
+ "F_SIZE"        : 23,
+ "FF_REGULAR"    : "./static/helvetica/Helvetica.ttf",
+ "FF_BOLD"       : "./static/helvetica/Helvetica-Bold.ttf"
+}
+}

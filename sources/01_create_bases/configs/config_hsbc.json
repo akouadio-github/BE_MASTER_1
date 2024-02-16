@@ -1,0 +1,27 @@
+{
+"IMAGE_PATH"              : "./templates/hsbc.jpg",
+"BANK"                    : "HSBC",
+"OUTPUT_DIR" : "../../train_test_dataset/",
+"TEMPLATE_OPTIONS"      : {
+"MAX_LEN_TRANSAC" : 32,
+"OFFSET" : 3,
+    "Y_MIN" : 713,
+    "Y_MAX" : 1483,
+    "Y_GAP" : 25,
+    "TABLE_COLS_LIMITS" :  {
+            "col_1" : [102, 198],
+            "col_2" : [196, 718],
+            "col_3" : [700, 800],
+            "col_4" : [798, 830],
+            "col_5" : [828, 995],
+            "col_6" : [993, 1165]
+    },
+"BOX_HEIGHT" : 70
+}, 
+"FONT_OPTIONS": {
+ "F_SIZE"        : 15 ,
+ "FF_REGULAR"    : "./static/helvetica/Helvetica.ttf",
+ "FF_BOLD"       : "./static/helvetica/Helvetica-Bold.ttf"
+}
+}
+
