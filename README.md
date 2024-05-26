@@ -46,5 +46,7 @@ Each folder (so each step) should be autonomous by itself. So it should be runna
   - In this project, we didn't focus on image preprocessing before diving into modeling. So one could as improvement add a new block of "image preprocessing"
 
 
-  Thanks to Arkea, Benno, Franck Vermet and EURIA
-  Aristide, Mathis, Romain
+  Thanks to Arkea and EURIA specifically to Riwal, Yoann, Benno, Franck Vermet 
+
+  **- Authors**
+  Aristide, Mathis, Romain Actuary students
