@@ -48,5 +48,6 @@ Each folder (so each step) should be autonomous by itself. So it should be runna
 
   Thanks to Arkea and EURIA specifically to Riwal, Yoann, Benno, Franck Vermet 
 
-  **- Authors**
+
+  **- Authors** : 
   Aristide, Mathis, Romain Actuary students
