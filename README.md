@@ -51,3 +51,7 @@ Each folder (so each step) should be autonomous by itself. So it should be runna
 
   **- Authors** : 
   Aristide, Mathis, Romain Actuary students
+
+  ### F - Droits d'auteur
+
+Ce projet peut être utilisé à titre d'apprentissage, mais nous ne sommes aucunement responsables des utilisations qui en sont faites.
